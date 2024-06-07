@@ -1,7 +1,7 @@
 ### Hi there 👋
 <h3> I'm Yenn Ollarves!<img src="https://img.icons8.com/bubbles/50/000000/brown-curly-hair-lady-with-glasses.png" width="20"/> </h3>
 <img align='right' src="" alt="profile image" width="230">
-<p><em>Front-end Developer graduated at <a href="https://www.laboratoria.la/">Laboratoria</a><img src="https://img.icons8.com/bubbles/50/000000/graduation-cap.png" width="20"> 
+
 </em></p>
 <!--
 [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
