@@ -1,6 +1,6 @@
 ### Hi there 👋
-<h3> I'm Yenn Ollarves!<img src="https://img.icons8.com/bubbles/50/000000/brown-curly-hair-lady-with-glasses.png" width="20"/> </h3>
-<img align='right' src="" alt="profile image" width="230">
+<h3> I'm Yenn!<img src="https://img.icons8.com/bubbles/50/000000/brown-curly-hair-lady-with-glasses.png" width="20"/> </h3>
+
 
 </em></p>
 <!--
